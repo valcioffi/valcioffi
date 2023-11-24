@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there, I'm Valentino
+ - 🔭 Find my Wikimedia projects on [https://gitlab.wikimedia.org/valejappo](Wikimedia GitLab)
 
 <!--
 **valcioffi/valcioffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
