@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.ciof.fi/it/contributions">
-    <img src="https://www.ciof.fi/api/contributions/svg" alt="CIOF contributions overview" width="720" height="400">
+    <img src="https://www.ciof.fi/api/contributions/svg?theme=dark" alt="CIOF contributions overview" width="720" height="400">
   </a>
 </p>
 
