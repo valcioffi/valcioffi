@@ -4,7 +4,7 @@
  - 🌐 Personal website: [ciof.fi](https://ww.ciof.fi)
 
 <p align="center">
-  <a href="https://www.ciof.fi/it/contributions">
+  <a href="https://www.ciof.fi/contributions">
     <img src="https://www.ciof.fi/api/contributions/svg?theme=dark" alt="CIOF contributions overview" width="720" height="400">
   </a>
 </p>
